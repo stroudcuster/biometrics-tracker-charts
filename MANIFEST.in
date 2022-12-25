@@ -1,0 +1,9 @@
+include biometrics_charts/help/*.html
+include biometrics_charts/help/css/*.css
+include biometrics_charts/help/images/*.png
+include biometrics_charts/json/*.json
+include docs/source/*.rst
+
+
+
+
